@@ -13,5 +13,7 @@ You can download the dataset from [HERE](https://drive.google.com/file/d/1aFjcSk
 * Pandas 1.1.2
 * Matplotlib 3.3.2
 
-# Implementation
-You can see all reports and code in jupyter notebook in eithor [HERE](https://github.com/pmadinei/dl-img-pytorch/blob/master/PyTorch%20NN%20Image%20Classification.ipynb) as ipynb or [HERE](https://github.com/pmadinei/dl-img-pytorch/blob/master/docs/Report.html) as HTML in your local computer. GOOD LUCK!
+# Implementation & Results
+You can find all reports and codes in jupyter notebook in eithor [HERE](https://github.com/pmadinei/dl-img-pytorch/blob/master/PyTorch%20NN%20Image%20Classification.ipynb) as ipynb 
+
+or [HERE](https://github.com/pmadinei/dl-img-pytorch/blob/master/docs/Report.html) as HTML in your local computer. GOOD LUCK!
