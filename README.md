@@ -19,7 +19,7 @@ Here is a sample from dataset with labels:
 
 # Implementation & Result
 
-I used ZIP.id to download dataset to my notebook, and then unzip the main folder. I transformed images into what is called gray-Scaled images. The "imshow" function, displays images in given labels and classes, "make_unique_images" makes uniques cattegories so that I can display each product without repeating ourselves, and lastly, I executed these functions. The "plot_distribution" function takes the data_loader and classes, and uses "draw_plot" to plot the amount of images from each class. 
+<!--- I used ZIP.id to download dataset to my notebook, and then unzip the main folder. I transformed images into what is called gray-Scaled images. The "imshow" function, displays images in given labels and classes, "make_unique_images" makes uniques cattegories so that I can display each product without repeating ourselves, and lastly, I executed these functions. The "plot_distribution" function takes the data_loader and classes, and uses "draw_plot" to plot the amount of images from each class. --->
 
 You can find all reports and codes in [HERE](https://doc-0c-9k-docs.googleusercontent.com/docs/securesc/ogg8m8b7ucubdtfvu61pbsghht3ij23b/28o8uvq5bj37ig32k8qbggmemq3fnlmh/1605952200000/09915260226414736988/09915260226414736988/1tmSusEsCbYD_sDO7iawlIZZUIydXb1I7?e=download&authuser=0) as HTML in your local computer. 
 
